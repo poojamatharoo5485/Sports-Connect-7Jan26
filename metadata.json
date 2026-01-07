@@ -1,0 +1,7 @@
+{
+  "name": "Sports Connect",
+  "description": "A mobile-first marketplace to find local sports sessions, connect with players, and build your athletic profile.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
